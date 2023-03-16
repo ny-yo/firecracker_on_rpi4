@@ -1,4 +1,5 @@
 # firecracker_on_rpi4
+Reference : https://github.com/firecracker-microvm/firecracker/blob/main/docs/rootfs-and-kernel-setup.md
 
 ## Environment
 ubuntu22.04 on wsl
