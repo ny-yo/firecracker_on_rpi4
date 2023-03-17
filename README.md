@@ -1,8 +1,11 @@
 # firecracker_on_rpi4
 Reference : https://github.com/firecracker-microvm/firecracker/blob/main/docs/rootfs-and-kernel-setup.md
 
-## Environment
-OS : ubuntu22.04 on wsl  
+# about this document
+This document discribe how to cross compile kernel image for firecracker running on rpi4.  
+
+## Build environment
+OS : ubuntu22.04 on wsl2 (windows 11)  
 Arch : x86 64bit
 
 ## download toolchain and related components
