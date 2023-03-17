@@ -2,7 +2,7 @@
 Reference : https://github.com/firecracker-microvm/firecracker/blob/main/docs/rootfs-and-kernel-setup.md
 
 ## Environment
-OS : ubuntu22.04 on wsl
+OS : ubuntu22.04 on wsl  
 Arch : x86 64bit
 
 ## download toolchain and related components
